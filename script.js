@@ -587,14 +587,9 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of love From Latiii',//untuk deskripsi planet layer 1
-<<<<<<< HEAD
+  'Galaxy of love From Revian',//untuk deskripsi planet layer 1
   "luv u <3",//untuk deskripsi planet layer 2
-  "♡Happy Birthday (Sayang?)♡",//untuk deskripsi planet layer 3
-=======
-  "Luv U <3",//untuk deskripsi planet layer 2
   "♡Happy Birthday (sayang?)♡",//untuk deskripsi planet layer 3
->>>>>>> 084ee8a388f0e1fe89746d8949776d65203587b9
   "18/10/2025",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
